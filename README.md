@@ -4,5 +4,5 @@ This is a handy bulk file renamer with GUI made using Tkinter that allows you to
 
 <br>
 <p align="center">
-  <img src="./window.png" alt="showcase" />
+  <img src="./window.png" alt="showcase" width=300 height=400 />
 </p>
